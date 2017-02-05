@@ -33,4 +33,5 @@
     <item component="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity" drawable="@mipmap/ic_voice_search" />
     <item component="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" drawable="@mipmap/ic_youtube" />
     <item component="com.google.android.apps.youtube.gaming/.watchwhile.activity.WatchWhileActivity" drawable="@mipmap/ic_yt_gaming" />
+    <item component="com.eazycode.android.todo/com.eazycode.android.todo.MainActivity" drawable="@mipmap/ic_eazycode_todo" />
 </icons>
